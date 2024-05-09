@@ -24,7 +24,7 @@ Actualmente soy estudiante en el Tecnológico de Monterrey, donde estoy exploran
 
 ¡Me encantaría conectarme contigo y hablar sobre proyectos interesantes! Puedes encontrarme en:
 
-- LinkedIn: [[Tu perfil de LinkedIn](url_de_tu_perfil)](https://www.linkedin.com/in/juan-carlos-carro-cruz-361776234/)
+- LinkedIn: (url_de_perfil)](https://www.linkedin.com/in/juan-carlos-carro-cruz-361776234/)
 - Correo Electrónico: carrocruzjuancarlos@hotmail.com
 
 <!--
