@@ -12,7 +12,7 @@ Actualmente soy estudiante en el Tecnológico de Monterrey, donde estoy exploran
 
 ## Proyectos Destacados
 
-- **Sistema de Renderizado 3D:** Desarrollé un sistema de renderizado 3D utilizando C++ y OpenGL como parte de un proyecto de curso.
+- **Sistema de Renderizado 3D:** Desarrollé shaders en OpenGL como parte de un proyecto de curso.
 - **Aplicación de Gestión de Tareas:** Creé una aplicación de gestión de tareas kotlin para el DIF como un proyecto de materia.
 
 ## Educación
